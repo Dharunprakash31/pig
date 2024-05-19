@@ -1,0 +1,108 @@
+
+.face{
+    width: 300px;
+    height: 300px;
+    border: 5px solid black;
+    margin-top: 50px;
+    border-radius: 150px;
+    position:absolute;
+    left: 100px;
+    background-color: pink;
+}
+.eyesl{
+    width: 50px;
+    height: 50px;
+    border: 5px solid black;
+    position: relative;
+   top: 90px;
+   right: 80px;
+    border-radius: 50px;
+    background-color: white;
+}
+.eyesr{
+    width: 45px;
+    height: 45px;
+    border: 5px solid black;
+    position: relative;
+    top: 30px;
+    left: 70px;
+    border-radius: 50px;
+    background-color: white;
+}
+.r1
+{
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+    position: absolute;
+    top:15px;
+    left: 13px;
+    border-radius: 50px;
+    background-color: black;
+}
+.r2
+{
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+    position: absolute;
+    top:15px;
+    left: 13px;
+    border-radius: 50px;
+    background-color: black;
+}
+.nose{
+    width: 150px;
+    height: 50px;
+    border: 5px solid black;
+    position: relative;
+    top: 80px;
+    border-radius: 50px 50px 50px 50px;
+    background-color: rgb(182, 56, 56);
+}
+.nose1
+{
+    width: 20px;
+    height: 30px;
+    border: 1px solid black;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    border-radius: 100px 100px 100px 100px;
+    background-color:black;
+}
+.nose2
+{
+    width: 20px;
+    height: 30px;
+    border: 1px solid black;
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    border-radius: 100px 100px 100px 100px;
+    background-color:black;
+}
+.earsl
+{
+    width: 65px;
+    height: 50px;
+    border: 5px solid black;
+    position: absolute;
+    top: 110px;
+    left: 125px;
+    rotate: -30deg;
+    border-radius: 50px;
+    background-color:pink;
+}
+.earsr
+{
+    width: 65px;
+    height: 50px;
+    border: 5px solid black;
+    position: absolute;
+    top: 110px;
+    right: 1150px;
+    rotate: 40deg;
+    border-radius: 50px;
+    background-color:pink
+}
